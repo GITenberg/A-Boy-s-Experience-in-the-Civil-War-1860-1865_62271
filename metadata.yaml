@@ -1,0 +1,24 @@
+_repo: A-Boy-s-Experience-in-the-Civil-War-1860-1865_62271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Thomas
+    birthdate: 1850
+    gutenberg_agent_id: '51871'
+    url: http://www.gutenberg.org/2009/agents/51871
+description: ''
+gutenberg_issued: '2020-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- GITenberg
+title: A Boy's Experience in the Civil War, 1860-1865
+url: http://www.gutenberg.org/ebooks/62271
